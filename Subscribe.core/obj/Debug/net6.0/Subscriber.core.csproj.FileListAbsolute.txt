@@ -1,0 +1,32 @@
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.AssemblyInfo.cs
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.deps.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriberr.data.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.csproj.CopyComplete
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\refint\Subscriber.core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\ref\Subscriber.core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.runtimeconfig.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.genruntimeconfig.cache
+E:\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.deps.json
+E:\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.runtimeconfig.json
+E:\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.dll
+E:\Weight Watchers\Subscribe.core\bin\Debug\net6.0\Subscriber.core.pdb
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.csproj.AssemblyReference.cache
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.AssemblyInfoInputs.cache
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.AssemblyInfo.cs
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.csproj.CoreCompileInputs.cache
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.dll
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\refint\Subscriber.core.dll
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.pdb
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.genruntimeconfig.cache
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\ref\Subscriber.core.dll
+E:\Weight Watchers\Subscribe.core\obj\Debug\net6.0\Subscriber.core.sourcelink.json

@@ -1,0 +1,32 @@
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.deps.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.AssemblyInfo.cs
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\refint\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\ref\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.runtimeconfig.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.genruntimeconfig.cache
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.csproj.AssemblyReference.cache
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.AssemblyInfoInputs.cache
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.AssemblyInfo.cs
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.csproj.CoreCompileInputs.cache
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.dll
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\refint\Subscriberr.data.dll
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.pdb
+E:\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.deps.json
+E:\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.runtimeconfig.json
+E:\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.dll
+E:\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriberr.data.pdb
+E:\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriber.core.dll
+E:\Weight Watchers\Subscriber.data\bin\Debug\net6.0\Subscriber.core.pdb
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.csproj.CopyComplete
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.genruntimeconfig.cache
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\ref\Subscriberr.data.dll
+E:\Weight Watchers\Subscriber.data\obj\Debug\net6.0\Subscriberr.data.sourcelink.json

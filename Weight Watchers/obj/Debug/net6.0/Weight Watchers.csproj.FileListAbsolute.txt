@@ -1,0 +1,227 @@
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.exe
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.deps.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.runtimeconfig.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Newtonsoft.Json.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.AssemblyInfo.cs
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\scopedcss\bundle\Weight Watchers.styles.css
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.csproj.CopyComplete
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\refint\Weight Watchers.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.genruntimeconfig.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\obj\Debug\net6.0\ref\Weight Watchers.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.service.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.core.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriberr.data.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.service.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.csproj.AssemblyReference.cache
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.AssemblyInfoInputs.cache
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.AssemblyInfo.cs
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.csproj.CoreCompileInputs.cache
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.MvcApplicationPartsAssemblyInfo.cs
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.MvcApplicationPartsAssemblyInfo.cache
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.dll
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\refint\Weight Watchers.dll
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.pdb
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\appsettings.Development.json
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\appsettings.json
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.exe
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.deps.json
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.runtimeconfig.json
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Weight Watchers.pdb
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\AutoMapper.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Azure.Core.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Azure.Identity.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Humanizer.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.CodeDom.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Text.Json.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.core.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.DAL.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.service.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriberr.data.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.core.pdb
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.DAL.pdb
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriberr.data.pdb
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Subscriber.service.pdb
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets.build.json
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets.development.json
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets\msbuild.Weight Watchers.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets\msbuild.build.Weight Watchers.props
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Weight Watchers.props
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Weight Watchers.props
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\scopedcss\bundle\Weight Watchers.styles.css
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.csproj.CopyComplete
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.genruntimeconfig.cache
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\ref\Weight Watchers.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\System.ServiceProcess.ServiceController.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.ServiceProcess.ServiceController.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\AutoMapper.Extensions.ExpressionMapping.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Weight Watchers\Weight Watchers\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Weight Watchers\Weight Watchers\obj\Debug\net6.0\Weight Watchers.sourcelink.json

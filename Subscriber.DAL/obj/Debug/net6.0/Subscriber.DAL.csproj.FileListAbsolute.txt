@@ -1,0 +1,39 @@
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.core.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriberr.data.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.core.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriberr.data.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CopyComplete
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.runtimeconfig.json
+Y:\Groups\Group_2\כהן  מרים\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.genruntimeconfig.cache
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.deps.json
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.runtimeconfig.json
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.dll
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.DAL.pdb
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.core.dll
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriberr.data.dll
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriber.core.pdb
+E:\Weight Watchers\Subscriber.DAL\bin\Debug\net6.0\Subscriberr.data.pdb
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.AssemblyReference.cache
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfoInputs.cache
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.AssemblyInfo.cs
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CoreCompileInputs.cache
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.csproj.CopyComplete
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.dll
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\refint\Subscriber.DAL.dll
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.pdb
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.genruntimeconfig.cache
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\ref\Subscriber.DAL.dll
+E:\Weight Watchers\Subscriber.DAL\obj\Debug\net6.0\Subscriber.DAL.sourcelink.json
